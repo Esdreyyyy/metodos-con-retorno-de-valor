@@ -6,7 +6,7 @@ package calculadoraa;
 
 /**
  *
- * @author josed
+ * @author Esdrey Moguel Diaz
  */
 class Operaciones {
     //Atributos
